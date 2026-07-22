@@ -41,8 +41,8 @@ diabetes-prediction-ml/
 | Model               | Accuracy | F1 score | Precision | Recall |
 |---------------------|----------|----------|-----------|--------|
 | Naive Bayes         | 73%      | 0.74     | 0.74      | 0.74   |
-| Random Forest       | 74%      | 0.78     | 0.78      | 0.78   |
-| KNN                 | 70%      | 0.75     | 0.77      | 0.76   |
+| Random Forest       | 74%      | 0.74     | 0.75      | 0.74   |
+| KNN                 | 70%      | 0.70     | 0.71      | 0.70   |
 
 ## How to Run
 git clone [https://github.com/](https://github.com/manthakiran/ML)
