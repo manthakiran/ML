@@ -45,9 +45,9 @@ diabetes-prediction-ml/
 | KNN                 | 75%      | 0.75     | 0.77      | 0.76   |
 
 ## How to Run
-git clone https://github.com/nike-xyz/diabetes-prediction-ml.git
+git clone [https://github.com/](https://github.com/manthakiran/ML)
 cd diabetes-prediction-ml
 pip install -r requirements.txt
 
 ## Author
-Nikita M | B.E. AI & Data Science | [LinkedIn](https://www.linkedin.com/in/nikita-m-73a93b271/)
+Kiran M | B.E. AI & Data Science | [LinkedIn](www.linkedin.com/in/kiran-m08)
