@@ -16,7 +16,7 @@ This model classifies patients as diabetic or non-diabetic using health indicato
 ## Tech Stack
 - Language: Python 3.x
 - Editor: Jupyter Notebook
-- Packages: pandas, numpy, matplotlib, scikit-learn, imblearn
+- Packages: pandas, numpy, matplotlib, scikit-learn
 - Models: Naive Bays, Random Forest, KNN
 
 ## Project Structure
